@@ -50,12 +50,11 @@ Generate Logs + Alerts
 
 ---
 
-## ▶ How to Run
 
-### **1. Install Python & Nmap**  
-(You already installed.)
 
-### **2. Run with command**
+
+
+### ***. Run with command**
 ```bash
 python nsms_scan.py
 
