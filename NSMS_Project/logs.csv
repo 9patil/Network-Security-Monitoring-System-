@@ -1,0 +1,5 @@
+timestamp,ip,mac,device_name,unauthorized,open_ports,note
+2025-11-25 23:04:51,192.168.1.1,,,no,,MAC not detected
+2025-11-25 23:05:12,192.168.1.13,,,no,,MAC not detected
+2025-11-25 23:05:16,192.168.1.21,,,no,,MAC not detected
+2025-11-25 23:05:25,192.168.1.10,,,no,,MAC not detected
